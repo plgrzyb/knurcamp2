@@ -76,6 +76,7 @@ int main(void)
     //linijka 25: do wzrost przypisuje st wartosci float
     //linijka 26: if wzrost < 2.138 &&(operator logiczny and) wzrost > 2.136 jesli tak to zwraca poprawne i else jesli nie poprawne
 
+    
     //pytania:
     // 1.mozna sie odnosic za pomoca typów zmiennej?
     // 2.jak sie odniesc do nazwy zmiennej w printf by pokazywalo w konsoli?
