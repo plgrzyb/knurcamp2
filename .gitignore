@@ -1,0 +1,4 @@
+utils/
+main.dSYM/
+*.o
+main
