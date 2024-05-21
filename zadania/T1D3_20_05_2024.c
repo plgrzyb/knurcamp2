@@ -27,7 +27,6 @@ void selfTest(void) {
     printf("Test 4: %s\n", isPrime(97) ? "POPRAWNY" : "NIEPRAWIDŁOWY");
 }
 
-
 int main(void) {
     int num;
     printf("Podaj liczbe: ");
